@@ -1,0 +1,3 @@
+C:/Users/Платон/Desktop/lr2-6/lr2/cmake-build-debug/CMakeFiles/lr2.dir
+C:/Users/Платон/Desktop/lr2-6/lr2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Платон/Desktop/lr2-6/lr2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
